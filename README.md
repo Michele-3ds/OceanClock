@@ -1,8 +1,8 @@
 # OceanClock
-A relaxing clock app for Nintendo 3DS from the creator of NightClock.
-Hello, my name is Michele, welcome to my new clock app for Nintendo 3DS : OceanClock. 
+Welcome to OceanClock, a relaxing clock app for Nintendo 3DS.
+Hello, I am back, my name is Michele, the creator of NightClock, welcome to my new clock app for Nintendo 3DS : OceanClock. 
 FEATURES:
-- A fully animated underwater scene serves as background for the time and date display
+- A fully animated living underwater scene.
 - Customizable clock display: choose from multiple color presets (including an animated "Rainbow Dreams" mode), four size presets, and freely reposition the clock block anywhere on screen with the combination of R + Analog
 - All the major formats supported for time and date.
 - Multiple ocean-depth color palettes for the background gradient, with adjustable inversion
