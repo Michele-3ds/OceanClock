@@ -17,3 +17,4 @@ Hello, I am back, my name is Michele, the creator of NightClock, welcome to my n
 - Screen-off mode for the bottom screen to save battery
 - Instructions/Credit screen
 - Persistent settings saved on app exit (Start button)
+- The clock (and date) is synced with the internal clock of the 3ds, to sync the clock with the Internet time please use rosalina: (Open the Rosalina menu by pressing L + Down on the D-Pad + Select. Select Miscellaneous options. Choose Update date and time via NTP, quit Rosalina)
